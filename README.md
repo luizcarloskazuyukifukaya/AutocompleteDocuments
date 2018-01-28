@@ -2,7 +2,8 @@
 Documents for Autocomplete presentation
 
 ## Related URLs
-[Demo Site](https://autocompletepresentation.appspot.com/)  
+[Demo Site Final](https://gautocompletefinal.appspot.com/)  
+[Demo Site (backup)](https://autocompletepresentation.appspot.com/)    
 [Source Code](https://github.com/luizcarloskazuyukifukaya/MavenAutocompleteRelease)  
 
 ## Presentation Slide
